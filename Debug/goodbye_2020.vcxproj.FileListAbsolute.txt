@@ -1,0 +1,4 @@
+G:\prog\PROJECTS_DOING\goodbye_2020\goodbye_2020\Debug\goodbye_2020.exe
+G:\prog\PROJECTS_DOING\goodbye_2020\goodbye_2020\Debug\goodbye_2020.pdb
+G:\prog\PROJECTS_DOING\goodbye_2020\Debug\goodbye_2020.exe
+G:\prog\PROJECTS_DOING\goodbye_2020\Debug\goodbye_2020.pdb
